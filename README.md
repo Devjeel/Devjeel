@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/Devjeel/Devjeel.svg)](http://hits.dwyl.com/Devjeel/Devjeel) 
+
+[![GitHub followers](https://img.shields.io/github/followers/Devjeel.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Devjeel?tab=followers)
+
 <!--
 **Devjeel/Devjeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
