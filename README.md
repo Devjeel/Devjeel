@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋 I am Jeel Patel
   <br>
 <a href="https://www.linkedin.com/in/devjeel/" target="_blank">
-  <img align="center" alt="Jeel @LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"/>
+  <img align="center" alt="Jeel @LinkedIn" title="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"/>
 </a>
-  <a href="mailto:jeelhp02@gmail.com" target="_blank">
-  <img align="center" alt="Jeel @Mail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+<a href="mailto:jeelhp02@gmail.com" target="_blank">
+  <img align="center" alt="Jeel @Mail" title="Email" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+</a>
+<a href="https://stackoverflow.com/users/10355808/mega-j" target="_blank">
+  <img align="center" alt="Jeel @Stackoverflow" title="Stackoverflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" />
 </a>
 </h1>
 
